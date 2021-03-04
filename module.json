@@ -17,6 +17,7 @@
                 }
             ],
     "socket": false,
+    "url": "https://odrerion.com",
     "manifest": "https://github.com/daniel-shupe/odrerion-monsters/blob/main/module.json",
     "download": "https://github.com/daniel-shupe/odrerion-monsters/blob/main/odrerion-monsters.zip"
             
