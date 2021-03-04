@@ -1,0 +1,23 @@
+{
+    "name": "odrerion-monsters",
+    "title": "Odrerion Bestiary",
+    "description": "A module containing a compendium pack with monsters and npc featured in the Odrerion setting",
+    "author": "Daniel Shupe",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.6.0",
+    "compatibleCoreVersion":"0.7.9",
+    "packs": [
+                {
+                  "name": "odrerion-bestiary",
+                  "label": "Odrerion Bestiary",
+                  "system": "pf2e",
+                  "path": "./packs/odrerion-bestiary.db",
+                  "entity": "Actor",
+                  "module": "odrerion-monsters"
+                }
+            ],
+    "socket": false,
+    "manifest": "https://github.com/daniel-shupe/odrerion-monsters/blob/main/module.json",
+    "download": "https://github.com/daniel-shupe/odrerion-monsters/blob/main/odrerion-monsters.zip"
+            
+  }
